@@ -35,7 +35,6 @@ IF you participate to this project it is by default to a [beerware license](http
 Present the files your provided to the community
 
 
-Vo
 
 **Petit exercice de Git :**
 
