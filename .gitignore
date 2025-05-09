@@ -34,3 +34,4 @@
 *.webm
 
 # End of https://www.toptal.com/developers/gitignore/api/audio,video
+/.vs
